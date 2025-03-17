@@ -1,0 +1,15 @@
+.adjust{
+    margin-left: 8px;
+}
+
+.card{
+    padding-top:5px;
+}
+
+.margin{
+    margin-top:10%;
+}
+
+.background{
+    background-color: oklch(0.372 0.044 257.287);
+}

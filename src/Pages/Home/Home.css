@@ -1,0 +1,15 @@
+.cards{
+    margin-top:50px;
+    margin-left: 80px;
+}
+
+.margin-home{
+    margin-top: 20px;
+    display: flex;
+    justify-content: end;
+    margin-right: 80px;
+}
+
+.background-new{
+    background-color: #242424;
+}
